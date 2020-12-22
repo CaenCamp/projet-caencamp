@@ -1,38 +1,12 @@
-# Template pour les projets des Caen.Camp.s
+# Quel outil pour les CaenCamp
 
-<!-- LES BADGES
-![Tests](https://github.com/CaenCamp/api-caencamp/workflows/phpunit/badge.svg?branch=main) ![Top language](https://img.shields.io/github/languages/top/CaenCamp/api-caencamp.svg) ![Contributors](https://img.shields.io/github/contributors/CaenCamp/api-caencamp.svg) ![License](https://img.shields.io/github/license/CaenCamp/api-caencamp.svg) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg) -->
+L’un des objectifs des Coding Caen.Camp.s 2021 est de mettre en place une pratique d’EDD (Ethically Driven Development), cette pratique doit servir un autre objectif. Cet objectif est de développer le meilleur outil possible au service d’un réseau local de développeurs. Les rencontres déjà en place constituent évidemment le socle de ce réseau, mais nous pensons que nous pouvons aller plus loin : annuaire des boites, annuaire des développeurs, échanges en ligne, fédération avec d’autres réseaux du même type…
 
-<!-- Une description succinct mais motivante du projet. -->
+Ce chantier consiste donc à définir ce que nous développerons sur les bases des chantiers :
 
-Ce dépôt peut servir de [template](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/) lorsque vous créez un nouveau projet Coding Caen.Camp.
-
-![Utiliser un template de projet](https://github.blog/wp-content/uploads/2019/06/repository-template.gif?w=1024&resize=1024%2C512)
-
-## Démarrage rapide
-
-Une description rapide des [pré-requis](./docs/CONTRIBUTING.md#lenvironnement-de-développement) sur l'environnement local permettant de lancer un `make install`.
-
-Le `Makefile` devra toujours comporter au moins les recettes suivantes :
-
-- help
-- install
-- start
-- test
-
-Vous trouverez plus d'informations sur les `Makefile` sur le [guide des Coding Caen.Camp](https://github.com/CaenCamp/coding-caen-camp/blob/master/formalisme.md#le-makefile).
-
-```bash
-make install
-```
-
-et lancer le projet avec :
-
-```bash
-make start
-```
-
-Le projet est alors disponible sur <http://localhost:xxxx>
+- [Chantier 1 - L'API](https://github.com/CaenCamp/api-caencamp)
+- [Chantier 2 - Le front](https://github.com/CaenCamp/front-caencamp)
+- [Chantier 3 - L'auto hébergement](https://github.com/CaenCamp/hebergement-caencamp)
 
 ## Participer au projet
 
