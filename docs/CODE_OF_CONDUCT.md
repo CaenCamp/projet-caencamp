@@ -2,17 +2,17 @@
 
 ## 1. Objectif
 
-L’un des objectifs principaux de CaenCamp.s est d’être inclusif pour le plus grand nombre de contributeurs, avec les expériences les plus variées et diversifiées possibles. À ce titre, nous nous engageons à offrir un environnement amical, sécurisé et accueillant pour tous, sans égard au sexe, à l’orientation sexuelle, aux aptitudes, à l’origine ethnique, au statut socioéconomique et à la religion (ou à l’absence de religion).
+L’un des objectifs principaux de CaenCamp.s est d’être inclusif pour le plus grand nombre de contributeurices, avec les expériences les plus variées et diversifiées possibles. À ce titre, nous nous engageons à offrir un environnement amical, sécurisé et accueillant pour toustes, sans égard au genre, à l’orientation sexuelle, aux aptitudes, à l’origine ethnique, au statut socioéconomique et à la religion (ou à l’absence de religion).
 
-Ce code de conduite décrit nos attentes envers tous ceux qui participent à notre communauté, ainsi que les conséquences pour les comportements inacceptables.
+Ce code de conduite décrit nos attentes envers toutes les personnes qui participent à notre communauté, ainsi que les conséquences pour les comportements inacceptables.
 
-Nous invitons tous ceux qui participent au CaenCamp à nous aider à créer des expériences positives et bienveillantes pour tous.
+Nous invitons les personnes qui participent au CaenCamp à nous aider à créer des expériences positives et bienveillantes pour tout le monde.
 
 ## 2. Citoyenneté Open Source
 
-Un autre objectif de ce code de conduite est d’accroître la citoyenneté open source en encourageant les participants à reconnaître et à renforcer les relations entre nos actions et leurs effets sur notre communauté.
+Un autre objectif de ce code de conduite est d’accroître la citoyenneté open source en encourageant les contributeurices à reconnaître et à renforcer les relations entre nos actions et leurs effets sur notre communauté.
 
-Les communautés reflètent les sociétés dans lesquelles elles existent et une action positive est essentielle pour contrer les nombreuses formes d’inégalité et d’abus de pouvoir qui existent dans la société.
+Les communautés reflètent les sociétés dans lesquelles elles existent et une action positive est essentielle pour contrer les nombreuses formes d’inégalités et d’abus de pouvoir qui existent dans la société.
 
 ## 3. Comportement attendu
 
@@ -22,8 +22,9 @@ Les comportements suivants sont attendus et demandés à tous les membres de la 
 -   Faites preuve de considération et de respect dans votre discours et vos actions.
 -   Favoriser la collaboration avant le conflit.
 -   S’abstenir de tout comportement ou discours humiliant, discriminatoire ou harcelant.
--   Soyez attentif à votre entourage et à vos collègues participants. Alertez les dirigeants de la communauté si vous remarquez une situation dangereuse, une personne en détresse ou des violations du présent code de conduite, même si elles semblent sans conséquence.
--   Rappelez-vous que les lieux d’événements communautaires peuvent être partagés avec le public; veuillez faire preuve de respect envers tous ceux qui y vivent.
+-   Portez attention à votre entourage et à vos contributeurices. Alertez nous de la communauté si vous remarquez une situation dangereuse, une personne en détresse ou des violations du présent code de conduite, même si elles semblent sans conséquence.
+-   Rappelez-vous que les lieux d’événements communautaires peuvent être partagés avec le public; veuillez faire preuve de respect envers toutes les personnes qui y vivent.
+-   Adoptez un mode de communication, y compris à l'écrit, incluant.
 
 ## 4. Comportement inacceptable
 
